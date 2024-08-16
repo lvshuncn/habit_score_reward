@@ -61,4 +61,7 @@ Building a new habit can be tough, but you don't have to do it alone. Give "Habi
 
 If you have any questions, feel free to submit an issue to this github repository
 
-Or you can email us: [lvshun@live.cn](mailto:lvshun@live.cn?subject=Feedback)
+Or you can email us
+<p>
+<a href="mailto:lvshun@live.cn?subject=Feedback">lvshun@live.cn</a>
+</p>
