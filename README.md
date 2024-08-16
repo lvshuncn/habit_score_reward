@@ -1,53 +1,64 @@
-# Habit Score Reward
+# Habit Tracker: Gamify & Reward
 
-> Achieve Goals and Earn Rewards
+> Make building new habits easier than ever! Schedule and track your habits, get motivated with rewards and view your progress.
 
-Welcome to Habit Score Reward, the app that helps you build positive habits and rewards your achievements along the way. Habit Score Reward is based on a point & score system. With our app, you can create tasks, track your progress, and earn points for completing them. Set up personalized rewards for yourself and redeem them using the points you've earned. Let's embark on a journey of self-improvement, motivation, and success!
+[https://www.habit-rewards.com/](https://www.habit-rewards.com/)
 
-<p align="center">
-  <img src="./attachments/logo_r.png" width="256px" height="256px"/>
+<p align="center" style="border-radius: 20px; overflow: hidden;">
+<a href="https://www.habit-rewards.com/" target="_blank">
+  <img src="https://www.habit-rewards.com/images/banner-1.webp" width="100%"/>
+</a>
 </p>
 
-## Key features
+Are you having a hard time building new habits and sticking with them? Need some extra motivation to stay on track? Look no further! Introducing the Habit Tracker: Gamify & Reward, the ultimate tool to help you create and maintain healthy habits, with plenty of incentives along the way.
 
-### Task Creation and Tracking
-Easily create tasks and habits that you want to develop or maintain. Whether it's exercising, reading, or practicing a new skill, our app allows you to set up a list of tasks and track your progress.
+With the Habit Tracker: Gamify & Reward, you can easily create and schedule new habits to fit seamlessly into your daily routine. Whether it's drinking more water, exercising regularly, or practicing mindfulness, this app helps you stay organized and focused on your goals. You can assign points to these tasks, and each time you complete one, you earn the corresponding points.
 
-### Reward Points for Completion
-Each time you complete a task, you earn points based on its assigned value. This system reinforces positive behavior and provides a sense of accomplishment as you make progress towards your goals.
+You can also create rewards for yourself and set point values for these rewards, which you can redeem using your earned points. Whether it's a spa day, a new outfit, or a movie night, the possibilities are endless!
 
-### Personalized Rewards
-Customize your own rewards to keep yourself motivated. Treat yourself to a spa day, a new book, or a night out with friends. The choice is yours! Set the rewards that truly inspire and excite you.
+The Habit Tracker: Gamify & Reward also helps you break bad habits. For example, you can set it up so that each time you smoke, you lose 1 point. This method makes the impact of bad habits more visible, and evidence suggests it is a very effective way to address and reduce them.
 
-### Point Redemption
-Use the points you've earned to redeem your chosen rewards. This feature gives you a tangible incentive to stay committed to your tasks and helps you celebrate your achievements along the way.
+## FEATURES
 
-## Why Choose Habit Score Reward
+### Habit and Task Management
 
-### Trusted and Loved
-Join a community of thousands who have achieved their goals and transformed their lives with Habit Score Reward. Our app has received rave reviews for its effectiveness in building habits, increasing productivity, and promoting personal growth.
+- Create and Edit Tasks Easily: Quickly add and modify tasks to fit your needs.
+- Schedule Repeating Tasks: Set tasks to repeat on a schedule, such as daily, every Monday, or on the 2nd of each month.
+- Earn Points for Completing Tasks: Assign points to tasks and earn them upon completion.
+- Support for Comments: Add comments to habits to record your thoughts and status when completing tasks.
+- Notification Reminders: Set up reminders to keep you on track with your habits.
 
-### Real-Life Impact
-Imagine waking up every day with a clear plan, knowing that you're taking steps towards your goals. Habit Score Reward empowers you to make positive changes in your life, whether it's improving your health, learning new skills, or enhancing your overall well-being.
+### Quit Bad Habits
+- Set Negative Points for Tasks: Assign negative points to certain tasks to help break bad habits by deducting points when these tasks are checked in.
 
-### Success Stories
-Meet Sarah, a busy professional who used Habit Score Reward to establish a consistent workout routine. With the app's tracking and reward system, she stayed motivated and achieved her fitness goals, leading to increased energy and confidence.
+### Rewards
 
-### Easy and Intuitive
-Our user-friendly interface makes it simple to create tasks, track progress, and redeem rewards. The app's seamless design keeps you engaged and focused on your journey towards success.
+- Create and Modify Rewards: Easily set up and adjust rewards to keep you motivated.
+- Set Points for Rewards: Assign point values to rewards, and use your earned points to redeem them.
+- Add Comments to Rewards: Include comments or notes to keep track of details about your rewards.
 
-When points have been earned, your can pick from the list of rewards, you can set up your own custom rewards especially tailored for yourself, like "A good movie".
+### Templates
 
-Download Habit Score Reward today and unlock your full potential. Start building positive habits, achieving your goals, and enjoying the rewards of your hard work. Your journey to success begins now!
+- Access Predefined Templates: Choose from over 300 ready-made templates for habits and rewards to simplify the setup process.
 
-## Privacy Policy
-https://habit-score-reward.web.app/#/privacy
+### Charts
 
-## Terms and Conditions
-https://habit-score-reward.web.app/#/terms
+- Track Points Changes: Keep an eye on how your points are changing over time.
+- Task Completion Status: See how well you're doing with completing each task.
+- Reward Redemption Status: Monitor which rewards you've redeemed and which are still available.
+
+### Premium Features
+
+- Unlimited Habits & Tasks: Create as many habits and tasks as you want.
+- Unlimited Rewards: Set up an endless number of rewards to keep you motivated.
+
+Building a new habit can be tough, but you don't have to do it alone. Give "Habit Tracker: Gamify & Reward" a try, and you'll never want to go back to the old way of doing things.
+
+- Privacy Policy: https://www.habit-rewards.com/privacy-policy
+- Terms and Conditions: https://www.habit-rewards.com/terms
 
 ## Contact US
 
 If you have any questions, feel free to submit an issue to this github repository
 
-Or you can email us: lvshun@live.cn
+Or you can email us: [lvshun@live.cn](mailto:lvshun@live.cn?subject=Feedback)
